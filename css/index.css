@@ -66,6 +66,38 @@ p {
     line-height: 1.4;
 }
 
+.nav-bar-logo {
+    display:flex;
+    width: 800px;
+    margin: 0 auto;
+}
+.navigation a {
+    text-decoration: none;
+    color:black;
+    Width: 643px;
+    /* margin: auto; */
+    margin-left: 28px;
+    margin-right:28px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+.navigation {
+    margin: auto;
+    padding-top: 24px;
+}
+
+.jumbo-pic {
+    text-align: center;
+    margin: auto;
+    width: 800px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
 .container {
     width: 800px;
     margin: 0 auto;
